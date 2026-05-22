@@ -64,6 +64,9 @@ Premium web experiences and scalable digital product development.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenawi&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenawi&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thenawi&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thenawi&theme=github_dark" />
 </p>
