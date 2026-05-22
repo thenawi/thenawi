@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey, I'm Ayberk 👋
 
-<!--
-**thenawi/thenawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student and full-stack developer focused on SaaS platforms, AI-powered systems and premium digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+
+### TableUp
+Modern hospitality SaaS platform for restaurants, cafés and hospitality businesses.
+
+### Nawi Studios
+Premium digital studio building modern websites, SaaS platforms and AI-powered solutions.
+
+---
+
+## Tech Stack
+
+- Next.js
+- TypeScript
+- React
+- TailwindCSS
+- Supabase
+- OpenAI API
+
+---
+
+## Focus Areas
+
+- SaaS Development
+- AI Integrations
+- UI/UX Design
+- Web Performance
+- Modern Full-Stack Systems
+
+---
+
+## Links
+
+- Website: https://nawistudios.com
+- GitHub: https://github.com/thenawi
+
+---
+
+## Featured Projects
+
+### TableUp
+QR menu, table ordering and reservation platform for restaurants and cafés.
+
+### Nawi Studios
+Premium web experiences and scalable digital product development.
+
+---
+
+> Building modern digital experiences that combine performance, design and real-world functionality.
