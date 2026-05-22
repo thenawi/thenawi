@@ -1,6 +1,10 @@
-# Hey, I'm Ayberk 👋
+![Banner](./banner.png)
 
-AI Engineering student and full-stack developer focused on SaaS platforms, AI-powered systems and premium digital experiences.
+<h1 align="center">Hey, I'm Ayberk 👋</h1>
+
+<p align="center">
+Full Stack Developer • AI Engineering Student • SaaS Builder
+</p>
 
 ---
 
