@@ -65,4 +65,4 @@ Premium web experiences and scalable digital product development.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenawi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenawi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenawi&layout=compact&theme=tokyonight&hide_border=true) 
