@@ -38,6 +38,7 @@ Premium digital studio building modern websites, SaaS platforms and AI-powered s
 ## Links
 
 - Website: https://nawistudios.com
+- Website: https://tableup.app
 - GitHub: https://github.com/thenawi
 
 ---
